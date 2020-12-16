@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1f45f787-b07e-4949-8b91-3598726ebd3c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +17,9 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -44,21 +50,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1608068205399">
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1608153720926">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608068205399" />
-    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1608068205399">
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1608153720926" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1608153573716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608068205399" />
-    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1608068205399">
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608153573716" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1608153573716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608068205399" />
-    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1608068205399">
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608153573716" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1608153573716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608068205399" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608153573716" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1608153573716">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608153573716" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1608152752316">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608152752316" />
+    <state x="209" y="38" key="new project wizard" timestamp="1608153731272">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1608153731272" />
   </component>
 </project>
